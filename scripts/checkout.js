@@ -94,8 +94,6 @@ cart.forEach((cartItem) => {
         </div>
       </div>
     </div>
-    
-  
   `
 });
 
