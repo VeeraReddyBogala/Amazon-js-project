@@ -12,7 +12,7 @@ describe('test suite: renderOrderSummary', () => {
   })
  });
 
-  beforeEach(() => {
+  beforeEach(() =>   {
     spyOn(localStorage,'setItem');
 
     document.querySelector('.js-test-container').innerHTML = `
